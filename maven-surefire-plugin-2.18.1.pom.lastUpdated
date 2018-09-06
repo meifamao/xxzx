@@ -1,8 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Aug 17 13:53:39 CST 2018
-http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.apache.maven.plugins\:maven-surefire-plugin\:pom\:2.18.1 from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: repo.spring.io
-@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1534485219697
-http\://repo.spring.io/libs-milestone-local/.error=Could not transfer artifact org.apache.maven.plugins\:maven-surefire-plugin\:pom\:2.18.1 from/to spring-milestones (http\://repo.spring.io/libs-milestone-local)\: repo.spring.io
-@default-spring-milestones-http\://repo.spring.io/libs-milestone-local/.lastUpdated=1534485219697
-@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1534408173401
-https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-surefire-plugin\:pom\:2.18.1 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
